@@ -1,18 +1,18 @@
 const CONFIG = {
   HOME_BANNER_ENABLE: true,
 
-  SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  SITE_CREATE_TIME: '2023-08-1', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到丁先生的个人站', url: 'https://krdstation.vercel.app/' },
+    { title: '前往丁先生的爪机', url: 'https://www.xiaohongshu.com/user/profile/5ceb6b9b00000000160199a8' } ,
   ],
 
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: '分享编程',
   HERO_TITLE_2: '与思维认知',
-  HERO_TITLE_3: 'TANGLY1024.COM',
+  HERO_TITLE_3: 'K.R.D.S.',
   HERO_TITLE_4: '新版上线',
   HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
   HERO_TITLE_LINK: 'https://tangly1024.com',
